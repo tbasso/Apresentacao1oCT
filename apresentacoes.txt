@@ -2,4 +2,10 @@ Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal
 
 xxxxx
 
+<<<<<<< HEAD
+
+=======
+LEANDRO PIARDI (ALTERACAO 2)
+>>>>>>> ada7f17002ace73d539abde128237041c255ff59
+
 TesteTania
