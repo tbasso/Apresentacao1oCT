@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+﻿
+Alexandre Fernandes, RA25080. Formado em Engenharia de Produção e estudante de Técnico em Informática no COTIL. Atualmente leciono no ensino público do Estado de SP e atuo como Projetista Autônomo. Meus hobbies incluem Cinema e Video Games (num modo geral). Gosto de Colecionar itens, em especial livros e mangás. Espero atuar na área de programação em breve.
+
+Lucas Gonçalves, RA18476. Atualamente estudante na instituição de ensino Cotil no curso de Técnico de Informática. Os meus hobbies são: assistir filmes e séries. 
+>>>>>>> 06766df5d820fc4ddcb73f462aa88ff921c6344c
+
+
 ﻿Elzio Maia - RA 18463
 
 Sou aluno do 1CTI noturno, gosto de informática e Naruto!
@@ -7,10 +13,3 @@ Gosto pizza, macarrão e queijo. Ahhh... e lasanha tbm!!
 Elias Pedro Ribeiro -RA 18462
 
 Sou aluno do 1CTI noturno, e blábláblá...
-=======
-﻿Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal sua. Identifique-se com nome, RA e o texto descrevendo seu perfil, formação, suas atividades, hobbies, gostos pessoais, etc.
-
-Alexandre Fernandes, RA25080. Formado em Engenharia de Produção e estudante de Técnico em Informática no COTIL. Atualmente leciono no ensino público do Estado de SP e atuo como Projetista Autônomo. Meus hobbies incluem Cinema e Video Games (num modo geral). Gosto de Colecionar itens, em especial livros e mangás. Espero atuar na área de programação em breve.
-
-Lucas Gonçalves, RA18476. Atualamente estudante na instituição de ensino Cotil no curso de Técnico de Informática. Os meus hobbies são: assistir filmes e séries. 
->>>>>>> 06766df5d820fc4ddcb73f462aa88ff921c6344c
