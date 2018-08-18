@@ -1,3 +1,5 @@
 ﻿Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal sua. Identifique-se com nome, RA e o texto descrevendo seu perfil, formação, suas atividades, hobbies, gostos pessoais, etc.
 
 Alexandre Fernandes, RA25080. Formado em Engenharia de Produção e estudante de Técnico em Informática no COTIL. Atualmente leciono no ensino público do Estado de SP e atuo como Projetista Autônomo. Meus hobbies incluem Cinema e Video Games (num modo geral). Gosto de Colecionar itens, em especial livros e mangás. Espero atuar na área de programação em breve.
+
+Lucas Gonçalves, RA18476. Atualamente estudante na instituição de ensino Cotil no curso de Técnico de Informática. Os meus hobbies são: assistir filmes e séries. 
