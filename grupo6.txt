@@ -1,1 +1,3 @@
-Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal sua. Identifique-se com nome, RA e o texto descrevendo seu perfil, formação, suas atividades, hobbies, gostos pessoais, etc.
+﻿Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal sua. Identifique-se com nome, RA e o texto descrevendo seu perfil, formação, suas atividades, hobbies, gostos pessoais, etc.
+
+Paulo Henrique, RA: 1840. Sou uma pessoa divertida que gosta muito de comida e fazer exercicios de TP em horas vagas, pois sou desempregado...
