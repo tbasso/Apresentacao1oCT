@@ -1,4 +1,4 @@
-Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal sua. Identifique-se com nome, RA e o texto descrevendo seu perfil, formação, suas atividades, hobbies, gostos pessoais, etc.
+﻿Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal sua. Identifique-se com nome, RA e o texto descrevendo seu perfil, formação, suas atividades, hobbies, gostos pessoais, etc.
 
 
 MATHEUS SANTOS RA 16541
@@ -6,9 +6,13 @@ MATHEUS SANTOS RA 16541
 MEU NOME É MATHEUS, TENHO 24 ANOS. MINHA PROFISSÃO É ANALISTA DE SUPORTE TÉCNICO E ESTOU CURSANDO O CURSO TÉCNICO DE INFOMÁTICA NO COTIL. GOSTO MUITO DESSA ÁREA E PRETENDO SEGUIR NELA.
  ====== Legal! onde você trabalha?
 
+ ====== Uma empresa de softwares, chamada Alpha7 Softwares.
+
 
 VICTOR MAGALHÃES RA 18484
 
 MEU NOME É VICTOR, TENHO 16 ANOS. ATUALMENTE ESTOU NO 2º ANO DO ENSINO MÉDIO E CURSO TÉCNICO EM INFORMATICA NO COTIL. COMO PASSA-TEMPO JOGO JOGOS, GOSTO MUITO DE PROGRAMAÇÃO E PRETENDO SEGUIR CARREIRA.
 
 ======= Você é de Limeira?
+
+======= Sim, e você ? =)
