@@ -1,3 +1,8 @@
 ﻿Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal sua. Identifique-se com nome, RA e o texto descrevendo seu perfil, formação, suas atividades, hobbies, gostos pessoais, etc.
-xxx
-yyyy
+
+	Meu nome é Vinícius, tenho 17 anos e estou cursando Técnico em Informática no COTIL e técnico em Fabricação Mecânica no Senai.
+	Gosto de jogar Video-Game, tocar violão, frequentar grupo de jovens e ir a igreja.
+	Pretendo futuramente poder fazer um curso de inglês e fazer uma faculdade de engenharia mecânica e ter a oportunidade de viajar para o exterior.
+	 
+
+
