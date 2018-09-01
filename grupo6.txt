@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿Acrescente, neste arquivo, um ou dois parágrafos com uma apresentação pessoal sua. Identifique-se com nome, RA e o texto descrevendo seu perfil, formação, suas atividades, hobbies, gostos pessoais, etc.
 
 Paulo Henrique, RA: 1840. Sou uma pessoa divertida que gosta muito de comida e fazer exercicios de TP em horas vagas, pois sou desempregado...
@@ -9,3 +9,5 @@ Meu nome é Celly RA 18453, tenho 18 anos e estou fazendo curso tecnico de infor
 
 Meu nome é Kamilly RA 18473 e gosto de fazer nada. Sou estudiosa. 
 >>>>>>> 0dfe42674f25b58336034154a3b5af8212db8e0b
+
+Testando pra ver se eu aprendi - Paulo
